@@ -4,6 +4,6 @@
 Compiled with c++11. 
 
 ## Part 1
-`./calorie_counter ./data/input.txt 1`
+`./calorie_counting ./data/input.txt 1`
 ## Part 2
-`./calorie_counter ./data/input.txt 3`
+`./calorie_counting ./data/input.txt 3`
