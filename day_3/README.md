@@ -17,3 +17,8 @@ I was unable to figure out why the compiler was so angry about different type co
 ## Part 1
 `./rucksack_pt1 ./data/input.txt`
 ## Part 2
+
+### To Do:
+- create buffer to read in three lines at a time
+- store results from character comparisons
+- clear buffer
