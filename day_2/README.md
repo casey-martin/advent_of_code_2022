@@ -1,6 +1,10 @@
 # Day 2
 `rock_paper_scissors` expects the file path to the input data.
 
+    A Y
+    B X
+    C Z
+
 ## Part 1
 `rock_paper_scissors_pt1 ./data/input.txt`
 ## Part 2
