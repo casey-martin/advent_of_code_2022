@@ -1,6 +1,6 @@
 # Day 3
 
-My first reaction was to use set operations.
+My first reaction was to convert each string into a set of chars and then use set intersections to find common elements.
 
     string -> set<char>  
     intersection(set<char>, set<char>)
