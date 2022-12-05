@@ -5,9 +5,10 @@
     B X
     C Z
 
+Compiled with c++11. 
+
 ## Part 1
 `rock_paper_scissors_pt1 ./data/input.txt`
 ## Part 2
 `rock_paper_scissors_pt2 ./data/input.txt`
 
-Compiled with c++11. 
